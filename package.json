@@ -24,6 +24,7 @@
 		"@angular/platform-browser": "~13.3.9",
 		"@angular/platform-browser-dynamic": "~13.3.9",
 		"@angular/router": "~13.3.9",
+		"chartiq": "file:src/chartiq-8.9.2.tgz",
 		"rxjs": "~6.6.3",
 		"tslib": "^2.0.0",
 		"zone.js": "~0.11.4"

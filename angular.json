@@ -148,6 +148,7 @@
   },
   "defaultProject": "chartiq-angular",
   "cli": {
+    "analytics": "1a6796e8-75d7-4f59-ac3d-cfb2d950c066",
     "defaultCollection": "@angular-eslint/schematics"
   }
 }

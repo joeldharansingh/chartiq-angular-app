@@ -1,0 +1,23 @@
+{
+	"name": "chartiq",
+	"version": "8.9.2",
+	"description": "Enterprise grade HTML5 Charting Library by ChartIQ",
+	"private": true,
+	"main": "js/chartiq.js",
+	"type": "module",
+	"files": [
+		"css/**/*",
+		"examples/**/*",
+		"js/**/*",
+		"mobile/**/*",
+		"modules/**/*",
+		"plugins/**/*"
+	],
+	"author": {
+		"name": "ChartIQ",
+		"email": "support@chartiq.com"
+	},
+	"license": "https://chartiq.com/developer-license-agreement/",
+	"dependencies": {},
+	"devDependencies": {}
+}

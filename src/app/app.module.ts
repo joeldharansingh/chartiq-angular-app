@@ -27,11 +27,11 @@ import { RouteListComponent } from './route-list/route-list.component';
             .then(m => m.ChartiqModule)
     },
     // Uncomment following lines if Active Trader module is available
-    // {
-    //     path: 'active-trader',
-    //     loadChildren: () => import("./active-trader-workstation/active-trader-workstation.module")
-    //     .then(m => m.CryptoIQWorkstationModule)
-    // },
+    {
+        path: 'active-trader',
+        loadChildren: () => import("./active-trader-workstation/active-trader-workstation.module")
+        .then(m => m.CryptoIQWorkstationModule)
+    },
     //  Uncomment following lines if Term Structure module is available
     // {
     //     path: '',
